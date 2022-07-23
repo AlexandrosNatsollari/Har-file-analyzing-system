@@ -1,0 +1,101 @@
+* {
+	margin: 0px;
+	padding: 0px;
+
+}
+body {
+	font-size: 120%;
+	background: #f4f4f4;
+font-style: Times New Roman;
+
+}
+
+.navbarlogo{
+	position: absolute;
+	color: #969696;
+  height: 33px;
+	right:10px;
+
+
+}
+
+.navbartext{
+	position: absolute;
+	color: #111;
+	right:100px;
+  height: 33px;
+
+}
+
+
+.header {
+	width: 50%;
+	margin: 40px auto 2px;
+	color: white;
+	background: 	#111;
+	text-align: center;
+	border: 1px solid 	#111;
+	border-bottom: none;
+	border-radius: 10px 10px 10px 10px;
+	padding: 10px;
+}
+form, .content {
+	width: 50%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #111;
+	background: #f4f4f4;
+	border-radius: 10px 10px 10px 10px;
+	padding: 10px;
+}
+.input-group {
+	margin: 10px 10px 10px 10px;
+}
+
+.input-group label {
+	display: block;
+	text-align: left;
+	margin: 5px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.input-group input {
+	height: 32px;
+	width: 95%;
+	padding: 5px 10px;
+	font-size: 15px;
+	border-radius: 10px;
+	border: 1px solid gray;
+}
+.btn {
+	cursor: pointer;
+	padding: 12px;
+	font-size: 16px;
+	color: white;
+	background: #111;
+	border: none;
+	border-radius: 10px;
+
+}
+.error {
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
+.success {
+	color: #3c763d;
+	background: #dff0d8;
+	border: 1px solid #3c763d;
+	margin-bottom: 20px;
+}
+.text-danger {
+	color: red;
+}
+.paragraph{
+	margin-bottom: 2px;
+}
