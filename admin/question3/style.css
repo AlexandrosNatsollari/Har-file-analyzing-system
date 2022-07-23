@@ -1,0 +1,14 @@
+.doughnutL{
+
+  display:inline;
+   float:left;
+   width: 450px;
+}
+
+
+.doughnutR{
+
+  display:inline;
+   float:right;
+   width: 450px;
+}
